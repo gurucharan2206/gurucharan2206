@@ -30,7 +30,8 @@
 
 ### Databases
 <span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-A81D22?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005F8F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
 ### IDE
